@@ -2,7 +2,7 @@
 
 ### day 1: January 9, 2017 
 
-**today's progress**: learned new things about Javascript in flatiron school's bootcamp prep.
+**today's progress**: learned new things about Javascript in Flatiron School's bootcamp prep.
 
 **thoughts**: it's making sense. pretty fascinated about the different data types there are and playing around with examples in the console (which can be accessed in chrome on  mac by selecting 'cmd + option + j'. 
 
