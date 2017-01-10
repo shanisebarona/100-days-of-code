@@ -16,6 +16,8 @@
 
 **thoughts**: so far so good, what initially made me nervous about this challenge was having to push to github daily, but with time comes proficiency. I've tinkered on github a few times now, and have been successful in accomplishing what I wanted in the moment but I am hoping to become a lot more comfortable with github soon!
 
+**update**: realized i won't always have personal code to push to github daily, especially when working through an online course/tutorial, but i will make an effort to push all code that is related to a personal project.
+
 **links**<br>
 [day 0 tweet](https://twitter.com/shnsbrn/status/818506834172592129)<br>
 [day 0 blog post](https://medium.com/my-100daysofcode)
