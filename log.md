@@ -8,6 +8,7 @@
 
 **links**<br>
 [day 1 tweet](https://twitter.com/shnsbrn/status/818672594639589376)
+[day 1 blog post](https://medium.com/my-100daysofcode/day-1-8dcbb7e2a408#.o033dcp43)
 
 ### day 0: January 9, 2017 
 
