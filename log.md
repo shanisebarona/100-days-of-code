@@ -6,7 +6,7 @@
 
 **thoughts**: trying to make sense of the many console fucntions. also really enjoying the learn.co platform and the structure of the curriculum. the github integration is pretttty cool. 
 
-[day 2 tweet](https://twitter.com/shnsbrn/status/819052979441565696)
+[day 2 tweet](https://twitter.com/shnsbrn/status/819052979441565696)<br>
 [day 2 blog](https://medium.com/my-100daysofcode/day-2-3347817dcf4#.nrcy2b2q1)
 
 
