@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### day 2: January 10, 2017 
+
+**today's progress**: more javascript things! console! variables! methods!
+
+**thoughts**: trying to make sense of the many console fucntions. also really enjoying the learn.co platform and the structure of the curriculum. the github integration is pretttty cool. 
+
+
 ### day 1: January 9, 2017 
 
 **today's progress**: learned new things about Javascript in Flatiron School's bootcamp prep.
