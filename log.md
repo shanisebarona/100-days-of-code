@@ -6,7 +6,7 @@
 
 **thoughts**: i love reading docmentation to futher cement learning. but for some reason ruby isn't clicking with me the way other things have. prob just need to dedicate more time to ruby and from fewer sources.
 
-[day 3 tweet](https://twitter.com/shnsbrn/status/819427685982146560)
+[day 3 tweet](https://twitter.com/shnsbrn/status/819427685982146560)<br>
 [day 3 blog post](https://medium.com/my-100daysofcode/day-3-115563174015#.fbepczfe3)
 
 ### day 2: January 10, 2017 
