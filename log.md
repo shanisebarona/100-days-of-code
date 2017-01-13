@@ -1,11 +1,22 @@
 # 100 Days Of Code - Log
 
+### day 4: January 12, 2017
+
+**today's progress**: nerding out about documentation. 
+
+**thoughts**: struggling with wanting to make all the things and then getting discouraged. i elaborate on these thoughts in my blog post!
+
+**links**<br>
+[day 4 tweet](https://twitter.com/shnsbrn/status/819930235047211008)
+[day 4 blog post](https://medium.com/my-100daysofcode/day-4-jan-12-2017-426b826176f4#.jm75b1wtd)
+
 ### day 3: January 11, 2017
 
 **today's progress**: more javascript in bootcamp prep course. plus some freecodecamp and codecademy exercises. and read some documentation today. 
 
 **thoughts**: i love reading docmentation to futher cement learning. but for some reason ruby isn't clicking with me the way other things have. prob just need to dedicate more time to ruby and from fewer sources.
 
+**links**<br>
 [day 3 tweet](https://twitter.com/shnsbrn/status/819427685982146560)<br>
 [day 3 blog post](https://medium.com/my-100daysofcode/day-3-115563174015#.fbepczfe3)
 
@@ -15,6 +26,7 @@
 
 **thoughts**: trying to make sense of the many console fucntions. also really enjoying the learn.co platform and the structure of the curriculum. the github integration is pretttty cool. 
 
+**links**<br>
 [day 2 tweet](https://twitter.com/shnsbrn/status/819052979441565696)<br>
 [day 2 blog post](https://medium.com/my-100daysofcode/day-2-3347817dcf4#.nrcy2b2q1)
 
