@@ -7,7 +7,7 @@
 **thoughts**: struggling with wanting to make all the things and then getting discouraged. i elaborate on these thoughts in my blog post!
 
 **links**<br>
-[day 4 tweet](https://twitter.com/shnsbrn/status/819930235047211008)
+[day 4 tweet](https://twitter.com/shnsbrn/status/819930235047211008)<br>
 [day 4 blog post](https://medium.com/my-100daysofcode/day-4-jan-12-2017-426b826176f4#.jm75b1wtd)
 
 ### day 3: January 11, 2017
