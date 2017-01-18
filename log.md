@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### day 6: January 14, 2017
+
+**today's progress**: changed my mind about the aforementiond landing page so i started over. also got an idea for a fun side project from a friend and spent time thinking on how to build it out.
+
+**thoughts**: one of my goals this year is to build little side projects so i'm glad to colloborate with a friend on this idea! i share more in depth thoughts in today's blog post. 
+
+**links**<br>
+[day 6 tweet](https://twitter.com/shnsbrn/status/820355257788198912)<br>
+[day 6 blog post](https://medium.com/my-100daysofcode/day-6-jan-14-2017-d32abaebe615#.ohj32bpbl)
+
 ### day 5: January 13, 2017
 
 **today's progress**: worked on a bootstrap landing page. 
