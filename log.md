@@ -8,7 +8,7 @@
 
 **links**<br>
 [day 9 tweet](https://twitter.com/shnsbrn/status/821491022333087745) - didn't exactly tweet about day 9 but i do want to point out how incredibly supportive my partner is. he reminds me daily to keep coding.<br>
-[day 9 blog post is still in progress!]
+[day 9 blog post](https://medium.com/my-100daysofcode/day-9-jan-17-2017-643cafd7aa7a#.yh2ffei3i)
 
 
 ### day 8: January 16, 2017
