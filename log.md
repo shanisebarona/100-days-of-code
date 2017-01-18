@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### day 8: January 16, 2017
+
+**today's progress**: javascript conditional statements. 
+
+**thoughts**: at first, these statements seem very straightforward. i understand the logic, but then it can easily get messy and feel convuluted. planning to take another look at these. as per my tweet, i worked on this late at night so i won't judge myself too harshly here haha.
+
+**links**<br>
+[day 8 tweet](https://twitter.com/shnsbrn/status/821216108728451072)
+[day 8 blog post is still in progress!]
+
+### day 7: January 15, 2017
+
+**today's progress**: i played around with SVG's today. learning more about how to modify inline svg. 
+
+**thoughts**: i am really wanting to get into illustration as a hobby. coding is very tangible to me, and design never felt that way. i feel that svg and css illustrations incorporate those two things and i'm hoping design can stop being semi scary to me!
+
+**links**<br>
+didnt' tweet about day 7. woops. <br>
+[day 7 blog post](https://medium.com/my-100daysofcode/day-7-jan-15-2017-10846dc97ec4#.pyl1b6v4e)
+
 ### day 6: January 14, 2017
 
 **today's progress**: changed my mind about the aforementiond landing page so i started over. also got an idea for a fun side project from a friend and spent time thinking on how to build it out.
