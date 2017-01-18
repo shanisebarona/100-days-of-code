@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### day 5: January 13, 2017
+
+**today's progress**: worked on a bootstrap landing page. 
+
+**thoughts**: i enjoy bootstrap. used it for the first time a couple months ago for a freecodecamp project. 
+
+[day 5 tweet](https://twitter.com/shnsbrn/status/820355257788198912)<br>
+[day 5 blog post](https://medium.com/my-100daysofcode/day-5-jan-13-2017-70e2527151a3#.7ncpa5qhl)
+
+
 ### day 4: January 12, 2017
 
 **today's progress**: nerding out about documentation. 
