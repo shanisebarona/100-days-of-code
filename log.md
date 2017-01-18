@@ -19,7 +19,7 @@
 
 **links**<br>
 [day 8 tweet](https://twitter.com/shnsbrn/status/821216108728451072)<br>
-[day 8 blog post is still in progress!]
+[day 8 blog post](https://medium.com/my-100daysofcode/day-8-jan-16-2017-31bc61f44615#.a9mt4bpwi)
 
 ### day 7: January 15, 2017
 
