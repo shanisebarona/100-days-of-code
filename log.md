@@ -15,7 +15,7 @@
 
 **today's progress**: javascript conditional statements. 
 
-**thoughts**: at first, these statements seem very straightforward. i understand the logic, but then it can easily get messy and feel convuluted. planning to take another look at these. as per my tweet, i worked on this late at night so i won't judge myself too harshly here haha.
+**thoughts**: at first, these statements seem very straightforward. i understand the logic, but then it can easily get messy and feel convuluted (once you make them into a function). planning to take another look at these. as per my tweet, i worked on this late at night so i won't judge myself too harshly here haha.
 
 **links**<br>
 [day 8 tweet](https://twitter.com/shnsbrn/status/821216108728451072)<br>
