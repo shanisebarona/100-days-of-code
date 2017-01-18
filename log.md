@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### day 9: January 17, 2017
+
+**today's progress**: more svg!
+
+**thoughts**: today, i worked on some vector illustration tutorials for Ai. technically did not code at all today, but i really want to figure out illustrator so i try to fit in some time for it when i can. i thought it was going to be a quick tutorial that would take me and hour or two and then have time later on to code, but i spent most of my evening confused and frustrated. 
+
+**links**<br>
+[day 9 tweet](https://twitter.com/shnsbrn/status/821491022333087745) - didn't exactly tweet about day 9 but i do want to point out how incredibly supportive my partner is. he reminds me daily to keep coding.
+[day 9 blog post is still in progress!]
+
+
 ### day 8: January 16, 2017
 
 **today's progress**: javascript conditional statements. 
