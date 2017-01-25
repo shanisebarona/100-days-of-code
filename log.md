@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### day 13: January 24, 2017
+
+**today's progress** more javascript functions. 
+
+
+
 ### day 12: January 22, 2017
 
 **todayy's progress** didn't mean to take two days off in a row, but it was needed considering the political climate we are in. time was needed to be sad, regroup, and re-focus. went back to that lab that was giving me trouble on day 11 and got through it!
