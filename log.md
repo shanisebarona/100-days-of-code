@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+### day 12: January 22, 2017
+
+**todayy's progress** didn't mean to take two days off in a row, but it was needed considering the political climate we are in. time was needed to be sad, regroup, and re-focus. went back to that lab that was giving me trouble on day 11 and got through it!
+
+**thoughts** i really felt the propblem solving wheels spinning during this lab. the instructions didn't spell out exactly how to solve all of the functions, so that bit of problem solving and trial and error was def a confidence booster.
+
+**links** <br>
+really slacking on tweeting. well, tweeted a lot this weekend but not about code.<br>
+[day 12 blog post coming soon]
+
+
+### day 11: January 19, 2017
+
+**today's progress** more progression with javascript! (intro to functions on learn.co)
+
+**thoughts** this was challenging as well and i actually had to sleep on it and come back to it.
+
+**links**<br>
+didn't tweet about it this day either.<br>
+[day 11 blog post to come!]
+
+### day 10: January 18, 2017
+
+**today's progress**: more javascript! (flow control on learn.co)
+
+**thoughts**: oi vey. i struggled with this lab and it felt so good once i figured out what i was doing wrong. it took hours though. just one of those days i guess!
+
+**links**<br>
+didn't tweet!<br>
+[day 10 blog post coming soon]
+
 ### day 9: January 17, 2017
 
 **today's progress**: more svg!
