@@ -1,9 +1,16 @@
 # 100 Days Of Code - Log
 
+### day 14: January 25, 2017
+
+**today's progress** updated github with some completed projects and spruced up some old css. 
+
+**thoughts** i barely remember writing the css i wrote for one of my skillcrush projects. spent today cleaning it up, making the breakpoint transitions even smoother and trying to familiarize myself with using css to make a responsive site. 
+
 ### day 13: January 24, 2017
 
 **today's progress** more javascript functions. 
 
+**thoughts** these functions, man, woof. 
 
 
 ### day 12: January 22, 2017
