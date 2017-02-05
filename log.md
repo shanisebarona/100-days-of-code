@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### day 16: February 5, 2017
+
+**today's progress** continuing with ruby!
+
+**thoughts**
+
+### day 15: February 1, 2017
+
+**today's progress**: unintentionally had some time away from coding (again) this time due to GETTING ACCEPTED TO FLATIRON SCHOOL'S WEB DEV PROGRAM. so while i straightened out the fine details of that and was busy with work, unfortunately didn't have time to code until today! 
+
+**thoughts**: incredibly excited about starting this bootcamp!!! ruby is the first thing in the curriculum which is great becuase my exposure to ruby has been very minimal and somewhat furstrasting. i am hoping to have a better understanding of it very soon. 
+
 ### day 14: January 25, 2017
 
 **today's progress** updated github with some completed projects and spruced up some old css. 
