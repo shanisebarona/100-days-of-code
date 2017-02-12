@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### day 18: February 7, 2017
+
+**today's progress** 
+
+### day 17: February 6, 2017
+
 ### day 16: February 5, 2017
 
 **today's progress** continuing with ruby!
