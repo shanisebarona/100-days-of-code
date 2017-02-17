@@ -4,7 +4,7 @@
 
 ### day 23: February 16, 2017
 
-**today's progress**: 
+**today's progress**: learned about string interpolation in methods in ruby. 
 
 
 ### day 22: February 15, 2017
