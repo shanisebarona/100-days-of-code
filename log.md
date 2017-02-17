@@ -2,20 +2,20 @@
 
 
 
-### day 22: February 16, 2017
+### day 23: February 16, 2017
 
 **today's progress**: 
 
 
-### day 21: February 15, 2017
+### day 22: February 15, 2017
 
 **today's progress**: continued with learning more about Rspec tests in Ruby.
 
-### day 20: February 13, 2017
+### day 21: February 13, 2017
 
 **today's progress**: introduced to testing (in ruby).
 
-### day 19: February 12, 2017
+### day 20: February 12, 2017
 
 **today's progress**: progress with the tic tac toe program. learned how to actually display the board in ruby. 
 
