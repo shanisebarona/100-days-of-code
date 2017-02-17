@@ -19,7 +19,7 @@
 
 **today's progress**: progress with the tic tac toe program. learned how to actually display the board in ruby. 
 
-### day 18: February 9, 2017
+### day 19: February 9, 2017
 
 **today's progress**: learning about how to start a tic tac toe board in ruby. 
 
