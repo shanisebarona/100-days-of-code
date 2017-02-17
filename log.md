@@ -1,16 +1,40 @@
 # 100 Days Of Code - Log
 
+
+
+### day 22: February 16, 2017
+
+**today's progress**: 
+
+
+### day 21: February 15, 2017
+
+**today's progress**: continued with learning more about Rspec tests in Ruby.
+
+### day 20: February 13, 2017
+
+**today's progress**: introduced to testing (in ruby).
+
+### day 19: February 12, 2017
+
+**today's progress**: progress with the tic tac toe program. learned how to actually display the board in ruby. 
+
+### day 18: February 9, 2017
+
+**today's progress**: learning about how to start a tic tac toe board in ruby. 
+
 ### day 18: February 7, 2017
 
-**today's progress** 
+**today's progress**: css illustrastions on codepen part deux
 
 ### day 17: February 6, 2017
+
+**today's progress**: css illustrastions on codepen
 
 ### day 16: February 5, 2017
 
 **today's progress** continuing with ruby!
 
-**thoughts**
 
 ### day 15: February 1, 2017
 
