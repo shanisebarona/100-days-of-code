@@ -2,6 +2,10 @@
 
 ### day 25: February 21, 2017
 
+**today's progress**: learning about CLI applications!
+
+### day 25: February 21, 2017
+
 **today's progress**: tomorrow ended up being a few days, ha. but in better news, i figured out with ruby problem i was having! it was a lab requiring string interpolation to build a tic tac toe board and i was totally overthinking it. 
 
 ### day 24: February 17, 2017
