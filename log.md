@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### day 25: February 21, 2017
+### day 26: February 22, 2017
 
 **today's progress**: learning about CLI applications!
 
