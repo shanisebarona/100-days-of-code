@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### day 30: February 26, 2017
+
+**today's progress**: Working in the Web Design Udemy course again. Learning more about Photoshop. I plan to get back to my ruby module tonight and pray I get through it. 
+
+### day 29: February 25, 2017
+
+**today's progress**: didn't code today but i did attend a GDI Photoshop 101 class. Photoshop PSD files are key to web design as a lot of web comps are made in photoshop. It's important to me to get a good grasp of it and the PSD to HTML route!
+
+### day 28: February 24, 2017
+
+**today's progress**: while i let that ruby lab marinate, I went back to my Udemy Web Design course. I purchased it awhile ago but I haven't gotten very far and decided to devle into it. My site is due for an overhaul. I want to incorporate a portfolio and design it all myself and I'm hoping I can get that out of this course. 
+
+
+### day 27: February 23, 2017
+
+**today's progress**: opened my computer, took a look at the next lab in my ruby module and shut my computer. yup oe of those days. (okay it was longer than a look. i read through the lab and opened in the IDE but I was so lost and unsure of where to start, my brain shutdown lol.)
+
 ### day 26: February 22, 2017
 
 **today's progress**: learning about CLI applications!
