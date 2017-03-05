@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### day 35: March 4, 2017
+
+**today's progress**: success! finally! back to my ruby module and was able to move past that problem. 
+
+### day 33 & 34: March 1-2 2017
+
+**today's progress**: worked more on the portfolio! using a github repo to host/deploy it. 
+ 
+### day 31 & 32: February 27 & 28 2017
+
+**today's progress**: still wasn't able to figure out the ruby problem that's stumping me quite yet. started working on a portfolio redesign using jekyll templates. 
+
 ### day 30: February 26, 2017
 
 **today's progress**: Working in the Web Design Udemy course again. Learning more about Photoshop. I plan to get back to my ruby module tonight and pray I get through it. 
