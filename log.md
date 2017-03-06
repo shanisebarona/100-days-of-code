@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### day 37: March 6, 2017
+
+### day 36: March 5, 2017
+
+**today's progress**: more ruby and worked through some flexbox demos using cute fruit and a pdf flexbox guide a friend is printing soon!
+
 ### day 35: March 4, 2017
 
 **today's progress**: success! finally! back to my ruby module and was able to move past that problem. 
