@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
+### day 38, 39, 40: March 7, 8, 9, 2017
+
+**today's progress**: grouping these days together because I mainly plugged away at a portfolio redesign. I get these bursts of inpspiration of wanting to design and build my own portfolio and it last a few days. And then I'm back to ehh, I should probably use a template for now and worry about a redesign when I have more skills. It's a constant back and forth. I annoy myself. 
+
 ### day 37: March 6, 2017
+
+**today's progress**: worked on more ruby labs!
 
 ### day 36: March 5, 2017
 
