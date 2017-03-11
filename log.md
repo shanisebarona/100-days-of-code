@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### day 42: March 11, 2017
+
+**today's progress**: finished up a lesson on helper methods. and starting to learn about loops!
+
+### day 41: March 10, 2017
+
+**today's progress**: more portfolio work. back to the template. rolls eyes. 
+
 ### day 38, 39, 40: March 7, 8, 9, 2017
 
 **today's progress**: grouping these days together because I mainly plugged away at a portfolio redesign. I get these bursts of inpspiration of wanting to design and build my own portfolio and it last a few days. And then I'm back to ehh, I should probably use a template for now and worry about a redesign when I have more skills. It's a constant back and forth. I annoy myself. 
