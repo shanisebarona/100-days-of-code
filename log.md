@@ -1,4 +1,7 @@
 # 100 Days Of Code - Log
+## day 62: March 31. 2017 
+
+**today's progress** trying to solve a complex (to me) ruby problem and really frustrated.
 
 ### day 42: March 11, 2017
 
